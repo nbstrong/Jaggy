@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Feb 10 11:26:59 2018
+Quartus Prime Version : 16.1.2 Build 203 01/18/2017 SJ Lite Edition
+Revision Name : jaggy
+Top-level Entity Name : jaggy
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 0
+Total pins : 23
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

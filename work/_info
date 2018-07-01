@@ -1,0 +1,864 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Google Drive/Schoolwork/Computer Architecture/Jaggy
+Eand_2
+Z1 w1519608281
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd
+Z5 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd
+l0
+L63
+VO=_clIIG2GEc4PCg:VdDD0
+!s100 Vm2B@dzd1MXfg3`_N`jTi1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1519772602
+!i10b 1
+Z8 !s108 1519772602.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd|
+Z10 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Adataflow
+R2
+R3
+Z13 DEx4 work 5 and_2 0 22 O=_clIIG2GEc4PCg:VdDD0
+l69
+L68
+VZ9OFiEfA8IYz7A7Igk9zZ3
+!s100 DRNzVza?1NW:QUlT^?N@H1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Earith_log_unit
+Z14 w1520443938
+R2
+R3
+Z15 dC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy
+Z16 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd
+Z17 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd
+l0
+L5
+VL0CdRbIR2Z6@Q=hd9n[n12
+!s100 K^6?9i5HLPeHWoTg]1:dk3
+R6
+32
+Z18 !s110 1521040643
+!i10b 1
+Z19 !s108 1521040642.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd|
+Z21 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd|
+!i113 1
+R11
+R12
+Astruct
+R2
+R3
+Z22 DEx4 work 14 arith_log_unit 0 22 L0CdRbIR2Z6@Q=hd9n[n12
+l11
+L10
+VT6NOIU7LGdCFRW3jUJFjl2
+!s100 gC2c]GYLjUF0<kB0aocGj0
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Eckt
+Z23 w1521045159
+R2
+R3
+R15
+Z24 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Ex6-2-4.vhd
+Z25 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Ex6-2-4.vhd
+l0
+L17
+V@eW8RN6h5`a7L1>?kKCoh2
+!s100 jWGW]ZM?`cU?JT[_GD`cX3
+R6
+32
+Z26 !s110 1521045164
+!i10b 1
+Z27 !s108 1521045163.000000
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Ex6-2-4.vhd|
+Z29 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Ex6-2-4.vhd|
+!i113 1
+Z30 o-work work
+R12
+Astruct
+Z31 DEx4 work 8 not_gate 0 22 b5P14SKCbL;D80Uam[E`_3
+R2
+R3
+Z32 DEx4 work 3 ckt 0 22 @eW8RN6h5`a7L1>?kKCoh2
+l23
+L22
+Z33 Ve@im5d9D:fC3joobiz<lO2
+Z34 !s100 ^hFI3il=V8IRa10BlX2d@0
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R30
+R12
+Econtr_unit
+Z35 w1520443939
+R2
+R3
+R15
+Z36 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd
+Z37 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd
+l0
+L5
+VSmQ6l^Jd_VnNe7hJFRcnb2
+!s100 B?D9QJm0`nS24mHGc4O]_0
+R6
+32
+R18
+!i10b 1
+Z38 !s108 1521040643.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd|
+Z40 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd|
+!i113 1
+R11
+R12
+Astruct
+R2
+R3
+Z41 DEx4 work 10 contr_unit 0 22 SmQ6l^Jd_VnNe7hJFRcnb2
+l12
+L11
+VnZdMVJgN4BQgLQ<U1SO5B1
+!s100 ^SnW9fD:J24bo?U[@RLQ?2
+R6
+32
+R18
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Edata_mem
+R14
+Z42 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z43 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z44 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R15
+Z45 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd
+Z46 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd
+l0
+L7
+Vk6@;j00@kV64?44Ek>JQK3
+!s100 oEo5c54RnAC?jUA<d[Ma80
+R6
+32
+Z47 !s110 1521040644
+!i10b 1
+Z48 !s108 1521040644.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd|
+Z50 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd|
+!i113 1
+R11
+R12
+Astruct
+R42
+R43
+R44
+R2
+R3
+Z51 DEx4 work 8 data_mem 0 22 k6@;j00@kV64?44Ek>JQK3
+l19
+L15
+VH02^^XIS;4[VYZQ_k<O9F1
+!s100 HXB4Xl:lE8fFIOPN=UMX00
+R6
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R11
+R12
+Efull_adder
+Z52 w1519772034
+R2
+R3
+R0
+Z53 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd
+Z54 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd
+l0
+L5
+VXLO60EO1Z;PPZA@0aGXjh0
+!s100 2;_=dH^:1N5L9fTG^90j^0
+R6
+32
+R7
+!i10b 1
+R8
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd|
+Z56 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd|
+!i113 1
+R11
+R12
+Astructure
+Z57 DEx4 work 3 or2 0 22 P^baZ_^7]EMLbEf;F80HP3
+Z58 DEx4 work 10 half_adder 0 22 2<2[?CQUYo8C6D=1Ga7SQ3
+R2
+R3
+DEx4 work 10 full_adder 0 22 XLO60EO1Z;PPZA@0aGXjh0
+l12
+L10
+VXmJg]e1@AId?CMiYoQD763
+!s100 WUCj4klERTXU6SHXeocYU0
+R6
+32
+R7
+!i10b 1
+R8
+R55
+R56
+!i113 1
+R11
+R12
+Ehalf_adder
+Z59 w1519608137
+R2
+R3
+R0
+Z60 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd
+Z61 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd
+l0
+L5
+V2<2[?CQUYo8C6D=1Ga7SQ3
+!s100 ]MzcM64KVXJe?l3ZmB?7[2
+R6
+32
+Z62 !s110 1519772603
+!i10b 1
+Z63 !s108 1519772603.000000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd|
+Z65 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+R58
+l11
+L10
+VXIK_67E0eC7QX8ZjYbljL3
+!s100 eW7:P]99cleLP`O?X92<l1
+R6
+32
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R11
+R12
+Ehalf_adderex
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L6
+V_fQjI^SLE[bRJHMMaQ9Sn0
+!s100 9JH4bneeAWjJd>YFc5@6]1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Astructure
+R13
+Z66 DEx4 work 5 xor_2 0 22 4eHc3LF:JUR`<LhYkHi6?2
+R2
+R3
+Z67 DEx4 work 12 half_adderex 0 22 _fQjI^SLE[bRJHMMaQ9Sn0
+l74
+L73
+V@QR6mflVT6ML_2baAQCLY3
+!s100 SD7KP<30NiQlnM>DEVdOd1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R3
+R67
+l31
+L30
+VBf^aVn:VM4?S0PE9_;_:T1
+!s100 5lH:[S3eRd]YdKidaXPFJ2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow2
+R2
+R3
+R67
+l23
+L22
+VVeCdaPmDcC6aXAFZ48jJV3
+!s100 0odMjOU^E9BAeYc^;k:PS3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+R67
+l17
+L16
+V6JQzkSIT92f:<FMnMFCj=3
+!s100 CNo6h2a=0nFa`2an8:HfB3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ehalf_addertb
+Z68 w1519605232
+R2
+R3
+R0
+Z69 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd
+Z70 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd
+l0
+L7
+Vo78dkQ96a>ZcIS_7ILJV[1
+!s100 `KmU^1:?0^25_<K:3F;1o2
+R6
+32
+R62
+!i10b 1
+R63
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd|
+Z72 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 12 half_addertb 0 22 o78dkQ96a>ZcIS_7ILJV[1
+l13
+L12
+V_SmcdPJPDg8al<ZVR1nFZ0
+!s100 DWnP_=j6a<4]MB6dN`1Ya3
+R6
+32
+R62
+!i10b 1
+R63
+R71
+R72
+!i113 1
+R11
+R12
+Einstr_mem
+Z73 w1520107392
+R42
+R43
+R44
+R2
+R3
+R15
+Z74 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd
+Z75 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd
+l0
+L7
+VU[eE;=5=?GN4R=jRWQF5M3
+!s100 <dEX?GB=>zAGBlkdAGZPi1
+R6
+32
+R47
+!i10b 1
+R48
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd|
+Z77 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd|
+!i113 1
+R11
+R12
+Astruct
+R42
+R43
+R44
+R2
+R3
+Z78 DEx4 work 9 instr_mem 0 22 U[eE;=5=?GN4R=jRWQF5M3
+l17
+L13
+VaMaN<`6C7n6MI7?eO75C31
+!s100 ]S<MlhHCE[^I6ThOYJj>:0
+R6
+32
+R47
+!i10b 1
+R48
+R76
+R77
+!i113 1
+R11
+R12
+Ejaggy
+R14
+R42
+R43
+R44
+R2
+R3
+R15
+Z79 8C:\Users\nicho\Google Drive\Schoolwork\Computer Architecture\Jaggy\jaggy.vhd
+Z80 FC:\Users\nicho\Google Drive\Schoolwork\Computer Architecture\Jaggy\jaggy.vhd
+l0
+L9
+V5BN?j>dkngBK`Zcmf]aVd2
+!s100 iDel5:JmXSZ3]L>]a9DN51
+R6
+32
+Z81 !s110 1521040645
+!i10b 1
+R48
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\nicho\Google Drive\Schoolwork\Computer Architecture\Jaggy\jaggy.vhd|
+Z83 !s107 C:\Users\nicho\Google Drive\Schoolwork\Computer Architecture\Jaggy\jaggy.vhd|
+!i113 1
+R11
+R12
+Astruct
+R41
+R51
+R22
+Z84 DEx4 work 8 reg_file 0 22 olLEla[B@PIG5@<Lc6^MX3
+R78
+Z85 DEx4 work 10 prog_count 0 22 SVQF`MOiKca`X1nz@81E63
+R42
+R43
+R44
+R2
+R3
+DEx4 work 5 jaggy 0 22 5BN?j>dkngBK`Zcmf]aVd2
+l18
+L13
+VAl7YbDV>R:<6:Z?_E=95`3
+!s100 hUeh@_I_PfAe0@7KAolCa3
+R6
+32
+R81
+!i10b 1
+R48
+R82
+R83
+!i113 1
+R11
+R12
+Emajority
+Z86 w1519612255
+R2
+R3
+R0
+Z87 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd
+Z88 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd
+l0
+L4
+VE3m4l7oC7M`GXYTeZV9Xo1
+!s100 a_`SI2OGdZJkmP_OK]Yn?2
+R6
+32
+R62
+!i10b 1
+R63
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd|
+Z90 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd|
+!i113 1
+R11
+R12
+Alogicfun
+R2
+R3
+DEx4 work 8 majority 0 22 E3m4l7oC7M`GXYTeZV9Xo1
+l10
+L9
+Vdf30lR5HA=eeRT5T@;ibV3
+!s100 fe[_hIOKVf@Z^]JX`S0R72
+R6
+32
+R62
+!i10b 1
+R63
+R89
+R90
+!i113 1
+R11
+R12
+Enot_gate
+R23
+R2
+R3
+R15
+R24
+R25
+l0
+L4
+Vb5P14SKCbL;D80Uam[E`_3
+!s100 EDk08`f]a@[=@i>O`M<]K2
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R30
+R12
+Adataflow
+R2
+R3
+R31
+l10
+L9
+Z91 V<T`0mOmXnDW`Q<iR[hcOV1
+Z92 !s100 P[:?n]941hhb[1NVlmCI[1
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R30
+R12
+Eor2
+Z93 w1519614741
+R2
+R3
+R0
+Z94 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd
+Z95 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd
+l0
+L4
+VP^baZ_^7]EMLbEf;F80HP3
+!s100 Uz562D:VVLU2aMJ4::NLR0
+R6
+32
+R62
+!i10b 1
+R63
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd|
+Z97 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+R57
+l10
+L9
+Vz7LgcA2MU6O4`2PoXDohS1
+!s100 jgahIFghW?NoiG`NX4do71
+R6
+32
+R62
+!i10b 1
+R63
+R96
+R97
+!i113 1
+R11
+R12
+Eprog_count
+Z98 w1520443937
+R42
+R43
+R44
+R2
+R3
+R15
+Z99 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd
+Z100 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd
+l0
+L10
+VSVQF`MOiKca`X1nz@81E63
+!s100 m:mg3CL:=^X:_doI2RLbR1
+R6
+32
+R81
+!i10b 1
+Z101 !s108 1521040645.000000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd|
+Z103 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R42
+R43
+R44
+R2
+R3
+R85
+l20
+L18
+ViERQ;;C8_n3Va`IUQHU^S0
+!s100 KMNQ^Sm5DeLnaf9kZ`:1G1
+R6
+32
+R81
+!i10b 1
+R101
+R102
+R103
+!i113 1
+R11
+R12
+Astruct
+R2
+R3
+DEx4 work 10 prog_count 0 22 N8REnG@=CHZPG7dh;:<zW3
+l11
+L10
+Vf9L3mDXdV^7OkW72`MLHE0
+!s100 fJhZWFM0TA4egY7imh;EE0
+R6
+32
+!s110 1520029367
+!i10b 1
+!s108 1520029367.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd|
+!s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd|
+!i113 1
+R11
+R12
+w1519837313
+R0
+FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd
+8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd
+Ereg_file
+R98
+R2
+R3
+R15
+Z104 8C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd
+Z105 FC:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd
+l0
+L5
+VolLEla[B@PIG5@<Lc6^MX3
+!s100 [o0cOkfPlB@88C0<8A@200
+R6
+32
+R81
+!i10b 1
+R101
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd|
+Z107 !s107 C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd|
+!i113 1
+R11
+R12
+Astruct
+R2
+R3
+R84
+l11
+L10
+V3V=j;HXoS^lQeo7z8hOUi3
+!s100 6cAUXAkcf>UoKENMU;]bT1
+R6
+32
+R81
+!i10b 1
+R101
+R106
+R107
+!i113 1
+R11
+R12
+Etbhalfadd
+Z108 w1519772018
+R2
+R3
+R0
+Z109 8D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd
+Z110 FD:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd
+l0
+L4
+V8eZ1:PNCC62IUC4NdXc>B2
+!s100 M=jj29]?PP;>L`zFR71I71
+R6
+32
+R62
+!i10b 1
+R63
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd|
+Z112 !s107 D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R58
+R2
+R3
+DEx4 work 9 tbhalfadd 0 22 8eZ1:PNCC62IUC4NdXc>B2
+l10
+L7
+VR:cgkZN:MNga_mAQFm[[S3
+!s100 jh;QYS<ON5zT>L1ec_9m43
+R6
+32
+R62
+!i10b 1
+R63
+R111
+R112
+!i113 1
+R11
+R12
+Etestbench
+R23
+R2
+R3
+R15
+R24
+R25
+l0
+L30
+V?joRFZ>9YN==3od9G9a070
+!s100 ?2Hbe;TDZm^;BTeBCVOh]2
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R30
+R12
+Abehavior
+R32
+R2
+R3
+Z113 DEx4 work 9 testbench 0 22 ?joRFZ>9YN==3od9G9a070
+l36
+L33
+VH[_L^d?5Ck=1:n[f>7hz21
+!s100 GFJcPK<OcmkN28d7RJZIN2
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R30
+R12
+Exor_2
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L50
+V4eHc3LF:JUR`<LhYkHi6?2
+!s100 7mE?GV07BQ4k2Y[H5=[Za0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+R66
+l56
+L55
+V:z;S6[JV:z=eBSI1mR8mc1
+!s100 m??^YG[`9cWVe]99lNYQJ3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12

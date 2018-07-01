@@ -1,0 +1,64 @@
+|jaggy
+a => prog_count:pc.addr_in
+a2 => instr_mem:im.readreg1
+a3 => contr_unit:cu.addr_in
+a4 => arith_log_unit:alu.datain1
+a5 => data_mem:dm.addrin
+b => instr_mem:im.readreg2
+b2 => arith_log_unit:alu.datain2
+b3 => data_mem:dm.writedata
+c => instr_mem:im.writereg
+d => instr_mem:im.writedata
+e => instr_mem:im.regwrite
+r <= prog_count:pc.addr_out
+r1 <= instr_mem:im.readdata1
+r2 <= contr_unit:cu.RegDst
+r3 <= arith_log_unit:alu.dataout
+r4 <= data_mem:dm.readdata
+s <= instr_mem:im.readdata2
+s1 <= contr_unit:cu.RegWrite
+t <= contr_unit:cu.ALUSrc
+u <= contr_unit:cu.PCSrc
+v <= contr_unit:cu.MemRead
+w <= contr_unit:cu.MemWrite
+x <= contr_unit:cu.MemtoReg
+
+
+|jaggy|prog_count:pc
+addr_in => ~NO_FANOUT~
+addr_out <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|jaggy|instr_mem:im
+readreg1 => ~NO_FANOUT~
+readreg2 => ~NO_FANOUT~
+writereg => ~NO_FANOUT~
+writedata => ~NO_FANOUT~
+regwrite => ~NO_FANOUT~
+readdata1 <= readdata1.DB_MAX_OUTPUT_PORT_TYPE
+readdata2 <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|jaggy|contr_unit:cu
+addr_in => ~NO_FANOUT~
+RegDst <= RegDst.DB_MAX_OUTPUT_PORT_TYPE
+RegWrite <= RegWrite.DB_MAX_OUTPUT_PORT_TYPE
+ALUSrc <= ALUSrc.DB_MAX_OUTPUT_PORT_TYPE
+PCSrc <= PCSrc.DB_MAX_OUTPUT_PORT_TYPE
+MemRead <= MemRead.DB_MAX_OUTPUT_PORT_TYPE
+MemWrite <= MemWrite.DB_MAX_OUTPUT_PORT_TYPE
+MemtoReg <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|jaggy|arith_log_unit:alu
+datain1 => ~NO_FANOUT~
+datain2 => ~NO_FANOUT~
+dataout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|jaggy|data_mem:dm
+addrin => ~NO_FANOUT~
+writedata => ~NO_FANOUT~
+readdata <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

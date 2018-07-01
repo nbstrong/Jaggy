@@ -1,0 +1,81 @@
+{D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/testbenchex.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/testbenchex.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+-- Loading entity full_adder
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/tbhalfadd.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tbhalfadd
+-- Compiling architecture behavior of tbhalfadd
+-- Loading entity half_adder
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/orex.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or2
+-- Compiling architecture dataflow of or2
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/examples.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adderex
+-- Compiling architecture dataflow of half_adderex
+-- Compiling architecture dataflow2 of half_adderex
+-- Loading entity half_adderex
+-- Compiling architecture behavior of half_adderex
+-- Loading entity half_adderex
+-- Compiling entity xor_2
+-- Compiling architecture dataflow of xor_2
+-- Compiling entity and_2
+-- Compiling architecture dataflow of and_2
+-- Compiling architecture structure of half_adderex
+-- Loading entity half_adderex
+-- Loading entity xor_2
+-- Loading entity and_2
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/half_adderex.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture dataflow of half_adder
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/majority.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity majority
+-- Compiling architecture logicfun of majority
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/halfadderex.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_addertb
+-- Compiling architecture dataflow of half_addertb
+
+} {} {}} {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd} {1 {vcom -work jagex -2002 -explicit -stats=none {D:/Google Drive/Schoolwork/Computer Architecture/Jaggy/full_addex.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture structure of full_adder
+-- Loading entity half_adder
+-- Loading entity or2
+
+} {} {}}

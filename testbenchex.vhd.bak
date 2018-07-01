@@ -1,0 +1,83 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+-- Testbench example for halfadderex.vhd
+
+entity testbench is
+end testbench;
+
+architecture behavior of testbench is
+	-- Declare signals to assign values to and to observe
+	signal a_tb, b_tb, carry_in_tb, sum_tb, carry_out_tb: std_logic;
+	
+begin
+	-- Create and instance of the circuit to be tested
+	uut: entity work.full_adder port map(a => a_tb, b=> b_tb, carry_in => carry_in_tb,
+		sum => sum_tb, carry_out => carry_out_tb);
+		
+	-- Define a process to apply input stimulus and test outputs
+	tb: process
+		constant period: time := 20 ns;
+		
+		begin -- Apply every possible input combination
+		
+		a_tb <= '0'; -- apply input combination 00 and check outputs
+		b_tb <= '0';
+		carry_in_tb <= '0';
+		wait for period;
+		assert ((sum_tb = '0') and (carry_out_tb = '0'));
+		report "test failed for input combination 000" severity error;
+		
+		a_tb <= '0'; -- apply input combination 00 and check outputs
+		b_tb <= '0';
+		carry_in_tb <= '1';
+		wait for period;
+		assert ((sum_tb = '1') and (carry_out_tb = '0'));
+		report "test failed for input combination 001" severity error;
+		
+		a_tb <= '0'; -- apply input combination 00 and check outputs
+		b_tb <= '1';
+		carry_in_tb <= '0';
+		wait for period;
+		assert ((sum_tb = '1') and (carry_out_tb = '0'));
+		report "test failed for input combination 010" severity error;
+		
+		a_tb <= '0'; -- apply input combination 00 and check outputs
+		b_tb <= '1';
+		carry_in_tb <= '1';
+		wait for period;
+		assert ((sum_tb = '0') and (carry_out_tb = '1'));
+		report "test failed for input combination 011" severity error;
+
+		a_tb <= '1'; -- apply input combination 00 and check outputs
+		b_tb <= '0';
+		carry_in_tb <= '0';
+		wait for period;
+		assert ((sum_tb = '1') and (carry_out_tb = '0'));
+		report "test failed for input combination 100" severity error;
+
+		a_tb <= '1'; -- apply input combination 00 and check outputs
+		b_tb <= '0';
+		carry_in_tb <= '1';
+		wait for period;
+		assert ((sum_tb = '0') and (carry_out_tb = '1'));
+		report "test failed for input combination 101" severity error;
+
+		a_tb <= '1'; -- apply input combination 00 and check outputs
+		b_tb <= '1';
+		carry_in_tb <= '0';
+		wait for period;
+		assert ((sum_tb = '0') and (carry_out_tb = '1'));
+		report "test failed for input combination 110" severity error;
+		
+		a_tb <= '1'; -- apply input combination 00 and check outputs
+		b_tb <= '1';
+		carry_in_tb <= '1';
+		wait for period;
+		assert ((sum_tb = '1') and (carry_out_tb = '1'));
+		report "test failed for input combination 111" severity error;
+		
+		wait; --indefinitely suspend process
+	end process;
+end;
+	

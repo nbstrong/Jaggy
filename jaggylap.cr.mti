@@ -1,0 +1,84 @@
+{C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/reg_file.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg_file
+-- Compiling architecture struct of reg_file
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/contr_unit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contr_unit
+-- Compiling architecture struct of contr_unit
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/instr_mem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity instr_mem
+-- Compiling architecture struct of instr_mem
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/jaggy.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\nicho\Google Drive\Schoolwork\Computer Architecture\Jaggy\jaggy.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity jaggy
+-- Compiling architecture struct of jaggy
+-- Loading entity prog_count
+-- Loading entity instr_mem
+-- Loading entity reg_file
+-- Loading entity arith_log_unit
+-- Loading entity data_mem
+-- Loading entity contr_unit
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/testbench.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/testbench.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+-- Loading entity full_adder
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/prog_count.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity prog_count
+-- Compiling architecture behavior of prog_count
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/data_mem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity data_mem
+-- Compiling architecture struct of data_mem
+
+} {} {}} {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/nicho/Google Drive/Schoolwork/Computer Architecture/Jaggy/arith_log_unit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity arith_log_unit
+-- Compiling architecture struct of arith_log_unit
+
+} {} {}}
